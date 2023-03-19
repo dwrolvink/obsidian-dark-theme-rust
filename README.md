@@ -1,9 +1,10 @@
 # Obsidian Dark Theme for VS Code
-![Preview](https://raw.githubusercontent.com/dwrolvink/obsidian-dark-theme-rust/main/images/preview.png)
+![Preview](https://raw.githubusercontent.com/dwrolvink/obsidian-dark-theme-rust/master/images/preview.png)
 
 # Recognitions
 - First off, this is not an official theme, I just slapped something together based on the Obsidian dark theme.
-- 99% of this theme is based on:  I just changed the colors to match the current Obsidian dark theme.
+- 99% of this theme is based on: [https://github.com/aziham/obsidian-dark](https://github.com/aziham/obsidian-dark). 
+  - I just changed the colors to match the current Obsidian dark theme.
 - Credit for the content of the icon: https://forum.obsidian.md/t/obsidian-logo-3d-artwork/11748
 
 # Other info
