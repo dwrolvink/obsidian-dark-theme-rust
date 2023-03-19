@@ -1,0 +1,39 @@
+{
+	"name": "obsidian-dark-theme-rust",
+	"displayName": "Obsidian Dark Theme (Rust syntax optimized)",
+	"description": "Used colors from the current Obsidian dark theme used for rust",
+	"publisher": "dwrolvink",
+	"version": "1.0.0",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dwrolvink/obsidian-dark-theme-rust"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"obsidian",
+		"obsidian theme",
+		"obsidian dark theme",
+		"obsidian dark",
+		"elegant dark theme",
+		"practical dark theme",
+		"rust",
+		"calm"
+	],
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Obsidian Dark Theme (Rust syntax optimized)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Obsidian-Dark-Theme-Rust.json"
+			}
+		]
+	}
+}
